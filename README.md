@@ -14,6 +14,10 @@ Tabela de conteúdos
 ## Sobre
 Projeto Desenvolvido na Semana Omnistack8 da RocketSeat, simulando a interface do famoso app tinder, onde os desenvolvedores são cadastrados utilizando a api do github, os "matches" serão realizados através das tecnologias utilizadas.
 
+<h1>
+  <img width="300px" alt="Readme" title="Readme" src="./view.png"/>
+</h1>
+
 ![](view.png)
 
 ### Pré-requisitos
