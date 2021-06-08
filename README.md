@@ -1,7 +1,6 @@
 # TinDev
-<h1  align="center">
-  ![](cadastro.png)
-</h1>
+
+![](cadastro.png)
 
 Tabela de conteúdos
 =================
@@ -71,7 +70,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/28113945?v=4" width="100px;" alt=""/>
    <br />
    <sub><b>Matheus do Carmo</b></sub></a> <a href="https://www.linkedin.com/in/matheus-carmo-cardoso-271066b9/" title="Dev"></a>
-
+</p>
+ 
+<p align="center">
 
  Entre em contato!
 
